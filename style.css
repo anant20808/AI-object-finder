@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+    ;
+}
+.heading
+{
+font-size: 15px;
+width: 100%;
+margin: 0px;
+color: black;
+}
+
+#status
+{
+font-size: 18px;
+}
+.header{
+    width:100%;
+    margin-top:0;
+    height:60px;
+    font-size:25px;
+ 
+}
+.textinp{
+    width: 300px;
+}
+canvas{
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px royalblue;
+}
+
+
